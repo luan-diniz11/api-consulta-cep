@@ -50,6 +50,16 @@ Acessa em: **http://localhost:8000/docs**
 
 ---
 
+## 🌐 Deploy
+
+**Link da API em produção:**
+🔗 https://api-consulta-cep.onrender.com
+
+**Documentação interativa:**
+📚 https://api-consulta-cep.onrender.com/docs
+
+---
+
 ## 📝 Exemplo
 
 **Criar:**
